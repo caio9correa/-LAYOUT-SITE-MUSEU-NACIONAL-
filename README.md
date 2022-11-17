@@ -9,5 +9,5 @@
 </div>
 <br>
 
-<h4 align="Center" target="_blank"> Disponivel em: <a href="https://caio9correa.github.io/-LAYOUT-SITE-MUSEU-NACIONAL-/"  target="_blank">Site</a><h4>
+<h4 align="Center"> Disponivel em: <a target="_blank" href="https://caio9correa.github.io/-LAYOUT-SITE-MUSEU-NACIONAL-/">Site</a><h4>
 
