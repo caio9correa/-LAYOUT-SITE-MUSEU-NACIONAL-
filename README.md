@@ -1,4 +1,5 @@
 <h1 align="center"> LAYOUT SITE - MUSEU NACIONAL </h1>
+ <h3 align="center">Não possui design responsivel</h3>
  <h3 align="center">Esse projeto foi desenvolvio utilizando as tecnologias:</h3>
 <div style="display: inline_block" align="Center"><br>
  <img align="center" alt="Caio-HTML" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
